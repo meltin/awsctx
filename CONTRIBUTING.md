@@ -80,4 +80,4 @@ Releases are generated with cargo-dist.
 
 Push a SemVer tag such as `v0.1.0` to run the release workflow. The workflow builds GitHub Release artifacts and a Homebrew formula.
 
-To publish the formula to `ixxq/homebrew-tap`, set the `HOMEBREW_TAP_TOKEN` GitHub Actions secret in `ixxq/awsctx`. The token must be allowed to push to `ixxq/homebrew-tap`.
+To publish the formula to `unmett/homebrew-tap`, set the `HOMEBREW_TAP_TOKEN` GitHub Actions secret in `unmett/awsctx`. The token must be allowed to push to `unmett/homebrew-tap`.
